@@ -26,7 +26,7 @@ My publications can be found at Google Scholar <a href='https://scholar.google.c
 - DBLP: https://dblp.org/pid/78/1102-2.html
 
 ### 🔥 News
-- *2025.12* &nbsp;🎉🎉 A <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325016498"><span style="font-style: italic;">image-free multi-label image recognition</span></a> paper is accepted by <span style="color: #A93226;">Pattern Recognition</span> 2026 (<span style="color: #A93226;">中科院一区, JCR Q1, IF=7.6</span>)! 
+- *2025.12* &nbsp;🎉🎉 An <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325016498"><span style="font-style: italic;">image-free multi-label image recognition</span></a> paper is accepted by <span style="color: #A93226;">Pattern Recognition</span> 2026 (<span style="color: #A93226;">中科院一区, JCR Q1, IF=7.6</span>)! 
 - *2025.06* &nbsp;🎉🎉 An <a href="https://arxiv.org/pdf/2506.23502"><span style="font-style: italic;">image-text matching</span></a> paper is accepted by <span style="color: #A93226;">ICCV</span> 2025 (<span style="color: #A93226;">CCF-A</span> conference)!
 - *2025.04* &nbsp;🎉🎉 A <a href="https://arxiv.org/abs/2505.06663"><span style="font-style: italic;">video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">IJCAI</span> 2025 (<span style="color: #A93226;">CCF-A</span> conference)!
 - *2025.04* &nbsp;🎉🎉 A <a href="https://ieeexplore.ieee.org/abstract/document/10966052/"><span style="font-style: italic;">video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">IEEE TPAMI</span> 2025 (<span style="color: #A93226;">CCF-A, JCR1, 中科院一区, IF=20.8</span>)!
